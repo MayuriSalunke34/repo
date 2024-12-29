@@ -1,6 +1,7 @@
 class Hello{
   public static void main (String[]args){
-    System.out.println("HelloWorld");
-    System.out.println("sakshi");
+    int a=10+20;
+    System.out.println("sum "+a);
+    
   }
 }
